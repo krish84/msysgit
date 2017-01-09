@@ -4,5 +4,5 @@
 # This file is part of Minimal SYStem.
 #   http://www.mingw.org/msys.shtml
 # File: cmd
-
+# test
 `echo $COMSPEC | sed -e 's#\\\\#/#g'` "$@"
